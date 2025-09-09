@@ -2,7 +2,6 @@
 
 Meu nome é [Seu Nome] e estou dando meus primeiros passos no **mundo da programação**! 🌱💻  
 
-![Coding Cute GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 ---
 
