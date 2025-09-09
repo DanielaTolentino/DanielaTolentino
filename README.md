@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, mundo! 👋
 
-<!--
-**DanielaTolentino/DanielaTolentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniela e estou dando meus primeiros passos no **mundo da programação**. 🌱💻
 
-Here are some ideas to get you started:
+## Sobre mim
+Sou uma pessoa curiosa, apaixonada por tecnologia e sempre em busca de aprender coisas novas. Decidi mergulhar no universo da programação para desenvolver habilidades que me permitam criar soluções práticas e, quem sabe, transformar ideias em projetos reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meu objetivo
+- Aprender e aplicar conceitos de programação, desde o básico até projetos mais avançados.  
+- Construir projetos que me desafiem e me permitam crescer profissionalmente.  
+- Compartilhar aprendizados e experiências com a comunidade.
+
+## Tecnologias que estou explorando
+Ainda estou começando, mas já estou me familiarizando com:
+- HTML, CSS e JavaScript  
+- Python  
+- SQL  
+
+E estou aberto(a) a descobrir muitas outras tecnologias ao longo da jornada!
+
+## Vamos nos conectar?
+Se você também está iniciando ou quer compartilhar conhecimento, fique à vontade para me seguir. Adoro trocar experiências e aprender com outras pessoas! 🚀
+
+---
+
+*"Todo especialista já foi iniciante um dia."*
