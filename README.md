@@ -2,7 +2,7 @@
 
 Meu nome é Daniela atuo como Tax Analyst e estou dando meus primeiros passos no **mundo da programação**. 🌱💻
 
-![Coding GIF]![CodeCodingGIF](https://github.com/user-attachments/assets/bb480e74-0f0b-4743-abb8-9080603bd74b)
+![]![CodeCodingGIF](https://github.com/user-attachments/assets/bb480e74-0f0b-4743-abb8-9080603bd74b)
 
 
 
