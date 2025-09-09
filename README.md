@@ -1,6 +1,6 @@
-# Olá, pessoal! 👋
+# Olá, mundo! 👋
 
-Meu nome é Daniela e estou dando meus primeiros passos no **mundo da programação**! 🌱💻  
+Meu nome é [Seu Nome] e estou dando meus primeiros passos no **mundo da programação**! 🌱💻  
 
 ![Coding Girl GIF](https://media.giphy.com/media/3o7TKsQ6QOqmvk51L2/giphy.gif)
 
@@ -40,7 +40,3 @@ E estou animada para explorar muitas outras tecnologias ao longo dessa jornada! 
 Se você também está começando ou quer compartilhar conhecimento, fique à vontade para me **seguir ou entrar em contato**. Adoro trocar experiências e aprender com outras pessoas! 🤝  
 
 *"Todo especialista já foi iniciante um dia."* 🌟  
----
-
- 
-
