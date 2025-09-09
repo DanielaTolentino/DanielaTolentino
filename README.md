@@ -16,7 +16,7 @@ Ainda estou começando, mas já estou me familiarizando com:
 - Python  
 - SQL  
 
-E estou aberto(a) a descobrir muitas outras tecnologias ao longo da jornada!
+E estou animado(a) para explorar muitas outras tecnologias ao longo dessa jornada! 🌟
 
 ## Vamos nos conectar?
 Se você também está iniciando ou quer compartilhar conhecimento, fique à vontade para me seguir. Adoro trocar experiências e aprender com outras pessoas! 🚀
