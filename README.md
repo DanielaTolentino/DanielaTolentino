@@ -1,11 +1,14 @@
 # Olá, pessoal! 👋
 
-Meu nome é Daniela e estou dando meus primeiros passos no **mundo da programação**. 🌱💻
+Meu nome é Daniela atuo como Tax Analyst e estou dando meus primeiros passos no **mundo da programação**. 🌱💻
 
-## Sobre mim
+![Coding GIF]![CodeCodingGIF](https://github.com/user-attachments/assets/3feb27e7-4c11-4d0b-ace5-427ceca0be34)
+
+
+## Sobre mim ☺️
 Sou uma pessoa curiosa, apaixonada por tecnologia e sempre em busca de aprender coisas novas. Decidi mergulhar no universo da programação para desenvolver habilidades que me permitam criar soluções práticas e, quem sabe, transformar ideias em projetos reais.
 
-## Meu objetivo
+## Meu objetivo 🎯👩🏼‍💻
 - Aprender e aplicar conceitos de programação, desde o básico até projetos mais avançados.  
 - Construir projetos que me desafiem e me permitam crescer profissionalmente.  
 - Compartilhar aprendizados e experiências com a comunidade.
