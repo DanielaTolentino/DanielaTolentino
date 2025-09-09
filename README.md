@@ -1,4 +1,4 @@
-# Olá, mundo! 👋
+# Olá, pessoal! 👋
 
 Meu nome é Daniela e estou dando meus primeiros passos no **mundo da programação**. 🌱💻
 
