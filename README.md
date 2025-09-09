@@ -16,11 +16,11 @@ Sou uma pessoa curiosa, apaixonada por tecnologia e sempre em busca de aprender 
 - Compartilhar aprendizados e experiências com a comunidade.
 
 ## Tecnologias que estou explorando
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML**  
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS**  
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**  
 - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**  
 - ![SQL](https://img.icons8.com/color/48/000000/sql.png) **SQL**
+- ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**  
+- ![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png) **GitHub**  
+- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL**  
 
 E estou animada para explorar muitas outras tecnologias ao longo dessa jornada! 🌟
 
